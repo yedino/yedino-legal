@@ -1,0 +1,6 @@
+
+openssl dgst -sha256 cameron_bitcoin_pgp.asc
+SHA256(cameron_bitcoin_pgp.asc)= c6ddf40b7f099cc5058ce024e02efc9d76b7f11c233d43f15b4e59a53c4ec350
+
+IMIyu1V7Fjpi9ztKIUz5vfuu9P0C63rC7f1hWFr1jufSLo9PJDuIQqV5FXpUopamYntwhHhwZ7sAkOBzEufC/oI=
+
